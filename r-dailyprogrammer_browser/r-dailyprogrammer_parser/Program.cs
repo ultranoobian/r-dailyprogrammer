@@ -21,10 +21,10 @@ namespace r_dailyprogrammer_parser
             string filePath = Path.GetFullPath(file_loc);
             List<string> items = Parser.Parse_InputTxt_File(filePath);
 
+            if (!Directory.Exists("batch"))
+            { Directory.CreateDirectory("batch"); }
             for(int i = 1; i <items.Count(); i++)
             {
-                if(!Directory.Exists("batch"))
-                { Directory.CreateDirectory("batch"); }
                 using (StreamWriter sW = new StreamWriter("batch\\" + i.ToString() + ".txt",true))
                 {
                     sW.Write(items[i]);
