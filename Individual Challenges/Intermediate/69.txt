@@ -1,0 +1,8 @@
+Title:  [6/29/2012] Challenge #70 [intermediate]
+Text:  Implement the [hyperoperator](http://en.wikipedia.org/wiki/Hyperoperation#Definition) as a function hyper(n, a, b), for non-negative integers n, a, b.
+
+hyper(1, a, b) = a + b, hyper(2, a, b) = a * b, hyper(3, a, b) = a ^ b, etc.
+
+Bonus points for efficient implementations.
+
+

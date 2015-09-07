@@ -1,0 +1,4 @@
+Title:  [2/24/2012] Challenge #15 [easy]
+Text:  Write a program to left or right justify a text file
+
+

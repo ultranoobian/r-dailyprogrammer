@@ -1,0 +1,8 @@
+Title:  [2/21/2012] Challenge #13 [intermediate]
+Text:  Create a program that will take any string and write it out to a text file, reversed. 
+
+input: "hello!"
+
+output: "!olleh"
+
+

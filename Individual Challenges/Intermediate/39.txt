@@ -1,0 +1,4 @@
+Title:  [4/16/2012] Challenge #40 [intermediate]
+Text:  Write a program that computes the [Kaprekar chain](http://mathworld.wolfram.com/KaprekarRoutine.html) for a given starting number, and compute the longest possible [Kaprekar chain](http://mathworld.wolfram.com/KaprekarRoutine.html)
+
+

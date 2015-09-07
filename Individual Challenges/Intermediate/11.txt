@@ -1,0 +1,9 @@
+Title:  [2/20/2012] Challenge #12 [intermediate]
+Text:  Create a program that will factor a number. for example:
+
+12 = 2 * 2 * 3
+
+14 = 7 * 2
+
+20 = 2 * 2 * 5
+

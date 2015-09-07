@@ -1,0 +1,4 @@
+Title:  [2/14/2012] Challenge #6 [difficult]
+Text:  create a AI that will play [NIM](http://en.wikipedia.org/wiki/Nim)
+
+

@@ -1,0 +1,16 @@
+Title:  [5/9/2012] Challenge #50 [intermediate]
+Text:  Given an absolute path, write a program that outputs an ASCII tree of that directory.
+
+Example output here: [HERE](http://www.acooke.org/cute/UnixComman0.html)
+
+Note: 'tree' utility is not allowed.
+
+Extra credit: Limit the depth of the tree by variable n.
+
+
+
+
+
+
+
+

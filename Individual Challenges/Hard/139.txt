@@ -1,0 +1,4 @@
+Title:  [6/8/2012] Challenge #62 [difficult]
+Text:  Write a program to solve 9x9 Sudoku puzzles.
+
+

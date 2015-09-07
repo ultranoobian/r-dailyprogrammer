@@ -1,0 +1,16 @@
+Title" http://www.reddit.com/...
+    ...
+
+# Sample Inputs & Outputs
+## Sample Input
+None needed
+## Sample Output
+None needed
+# Challenge Input
+None needed
+## Challenge Input Solution
+None needed
+# Note
+Google around for the Reddit API documentation and related crawler libraries. It might save you quite a bit of low-level parsing!
+
+

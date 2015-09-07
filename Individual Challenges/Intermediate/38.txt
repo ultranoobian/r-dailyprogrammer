@@ -1,0 +1,4 @@
+Title:  [4/12/2012] Challenge #39 [intermediate]
+Text:  Today's challenge is to determine if a number is a [Kaprekar Number](http://mathworld.wolfram.com/KaprekarNumber.html)
+
+

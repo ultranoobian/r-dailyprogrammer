@@ -1,0 +1,28 @@
+Title:  [6/13/2012] Challenge #64 [intermediate]
+Text:  Find the longest palindrome in the following 1169-character string:
+
+
+`Fourscoreandsevenyearsagoourfaathersbroughtforthonthisconta`
+`inentanewnationconceivedinzLibertyanddedicatedtotheproposit`
+`ionthatallmenarecreatedequalNowweareengagedinagreahtcivilwa`
+`rtestingwhetherthatnaptionoranynartionsoconceivedandsodedic`
+`atedcanlongendureWeareqmetonagreatbattlefiemldoftzhatwarWeh`
+`avecometodedicpateaportionofthatfieldasafinalrestingplacefo`
+`rthosewhoheregavetheirlivesthatthatnationmightliveItisaltog`
+`etherfangandproperthatweshoulddothisButinalargersensewecann`
+`otdedicatewecannotconsecratewecannothallowthisgroundThebrav`
+`elmenlivinganddeadwhostruggledherehaveconsecrateditfarabove`
+`ourpoorponwertoaddordetractTgheworldadswfilllittlenotlenorl`
+`ongrememberwhatwesayherebutitcanneverforgetwhattheydidhereI`
+`tisforusthelivingrathertobededicatedheretotheulnfinishedwor`
+`kwhichtheywhofoughtherehavethusfarsonoblyadvancedItisrather`
+`forustobeherededicatedtothegreattdafskremainingbeforeusthat`
+`fromthesehonoreddeadwetakeincreaseddevotiontothatcauseforwh`
+`ichtheygavethelastpfullmeasureofdevotionthatweherehighlyres`
+`olvethatthesedeadshallnothavediedinvainthatthisnationunsder`
+`Godshallhaveanewbirthoffreedomandthatgovernmentofthepeopleb`
+`ythepeopleforthepeopleshallnotperishfromtheearth`
+
+Your task is to write a function that finds the longest palindrome in a string and apply it to the string given above.
+
+

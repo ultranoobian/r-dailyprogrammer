@@ -1,0 +1,4 @@
+Title:  [4/10/2012] Challenge #38 [easy]
+Text:  Implement [Dijkstra's algorithm](http://en.wikipedia.org/wiki/Dijkstra's_algorithm) in any way you can :)
+
+

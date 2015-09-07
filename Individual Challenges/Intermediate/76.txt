@@ -1,0 +1,12 @@
+Title:  [7/16/2012] Challenge #77 [intermediate] (Last digit of factorial)
+Text:  The factorial of 10 is 3628800. The last non-zero digit of that factorial is 8.
+
+Similarly, the last non-zero digit of the factorial of 10^3 is 2.
+
+Compute the last non-zero digit of the factorial of 10^9 .
+
+***
+
+Bonus: Compute the last non-zero digit of the factorial of 10^100 .
+
+
