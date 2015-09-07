@@ -22,10 +22,18 @@ namespace r_dailyprogrammer_parser
             List<string> items = Parser.Parse_InputTxt_File(filePath);
 
             if (!Directory.Exists("batch"))
-            { Directory.CreateDirectory("batch"); }
-            for(int i = 1; i <items.Count(); i++)
             {
-                using (StreamWriter sW = new StreamWriter("batch\\" + i.ToString() + ".txt",true))
+                Directory.CreateDirectory("batch");
+            }
+            else
+            {
+                Directory.Delete("batch", true);
+                Directory.CreateDirectory("batch");
+            }
+
+            for (int i = 1; i < items.Count(); i++)
+            {
+                using (StreamWriter sW = new StreamWriter("batch\\" + i.ToString() + ".txt", true))
                 {
                     sW.Write(items[i]);
                     sW.Close();
@@ -45,7 +53,7 @@ namespace r_dailyprogrammer_parser
             ConsoleKeyInfo KeyInput;
             KeyInput = Console.ReadKey();
 
-            if(KeyInput.Key == ConsoleKey.D1)
+            if (KeyInput.Key == ConsoleKey.D1)
             { return true; }
             else { return false; }
         }
